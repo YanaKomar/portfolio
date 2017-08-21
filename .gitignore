@@ -1,4 +1,4 @@
-# Logs
+css# Logs
 logs
 *.log
 npm-debug.log*
@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+css
+*.css
